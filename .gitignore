@@ -12,3 +12,14 @@ obj/
 # Flutter (если в этом же репо)
 build/
 .dart_tool/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+FlutterApp/build/
+FlutterApp/.dart_tool/
+FlutterApp/.flutter-plugins
+FlutterApp/.flutter-plugins-dependencies
+FlutterApp/.packages
+FlutterApp/pubspec.lock
